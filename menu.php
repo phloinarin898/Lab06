@@ -9,4 +9,6 @@
 
  echo"map";
  echo "name";
+ echo"map";
+ echo "name";
 ?>

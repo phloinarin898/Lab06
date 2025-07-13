@@ -6,4 +6,7 @@
  echo"phloinarin";
  echo "flim";
  echo "About";
+
+ echo "flim";
+ echo "About";
 ?>
